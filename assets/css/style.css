@@ -81,6 +81,8 @@ p {
     background-color: #2589bd;
 }
 
+/* This was done because multiple classes had the same styling */ 
+
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
